@@ -1,0 +1,12 @@
+import java.io*;
+import java.util*;
+
+public class Greeter4 {
+
+    private String s = "Hello";
+
+    public Greeter4 (String s) {
+    }
+
+
+
