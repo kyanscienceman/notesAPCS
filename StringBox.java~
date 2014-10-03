@@ -1,0 +1,4 @@
+public String box(int r, int c) {
+    String s = "*";
+while (r > 0) {
+	
