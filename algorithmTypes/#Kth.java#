@@ -1,0 +1,7 @@
+
+public class Kth{
+
+    private int[] numarray;
+
+    public Kth(){
+	
