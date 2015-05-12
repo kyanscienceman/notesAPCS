@@ -44,9 +44,13 @@ public class Final{
     
     public static void main(String[] args){
 	Final f = new Final();
-	f.Q1();
+	//f.Q1();
 	//f.Q3();
 	//f.Q4();
+	//System.out.println("1" + new Integer(2) + 3);
+	boolean a = false;
+	boolean b = true;
+	System.out.println( (!a && b) == !(a || b) );
     }
     
 }
